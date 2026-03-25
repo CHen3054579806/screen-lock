@@ -37,8 +37,17 @@ IORegistryEntrySetCFProperty(reg, CFSTR("IORequestIdle"), kCFBooleanTrue);
 
 ## 依赖
 - macOS 系统
-- 密码已存储在 Keychain (服务名: `screen-lock-password`)
 - 辅助功能权限（用于 HID 事件模拟）
+
+## ⚠️ 首次使用
+
+安装技能后，你需要告诉 OpenClaw 你的锁屏密码：
+
+```bash
+security add-generic-password -s "screen-lock-password" -w "你的锁屏密码"
+```
+
+密码存储在 macOS Keychain 中，安全可靠。
 
 ## 作者
 - 作者：[CHen3054579806](https://github.com/CHen3054579806) (2026)

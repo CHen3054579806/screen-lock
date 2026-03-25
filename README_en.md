@@ -15,6 +15,19 @@ git clone https://github.com/CHen3054579806/screen-lock.git
 cd screen-lock
 ```
 
+## ⚠️ Important
+
+After installing the skill, you need to configure your screen lock password with OpenClaw to use the unlock feature!
+
+**Setup:**
+1. When first using unlock, OpenClaw will guide you to set up the password
+2. Or run manually:
+   ```bash
+   security add-generic-password -s "screen-lock-password" -w "your_password"
+   ```
+
+**Your password is stored securely in macOS Keychain.**
+
 ## Usage
 
 ### Lock Screen

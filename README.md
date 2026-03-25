@@ -15,6 +15,19 @@ git clone https://github.com/CHen3054579806/screen-lock.git
 cd screen-lock
 ```
 
+## ⚠️ 重要提示
+
+安装技能后，你需要告诉 OpenClaw 你的锁屏密码才能使用解锁功能！
+
+**配置方法：**
+1. 首次使用解锁功能时，OpenClaw 会引导你设置密码
+2. 或者手动运行：
+   ```bash
+   security add-generic-password -s "screen-lock-password" -w "你的锁屏密码"
+   ```
+
+**密码存储在 macOS Keychain 中，安全可靠。**
+
 ## 使用方法
 
 ### 锁屏
