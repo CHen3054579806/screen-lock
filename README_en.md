@@ -1,6 +1,6 @@
 # screen-lock
 
-macOS Screen Lock/Unlock Tool
+A tool that enables OpenClaw to control macOS screen lock/unlock
 
 ## Features
 

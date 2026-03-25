@@ -1,6 +1,6 @@
 # screen-lock
 
-macOS 屏幕锁屏/解锁工具
+让 OpenClaw 可以控制 macOS 屏幕锁屏/解锁的工具
 
 ## 功能
 
