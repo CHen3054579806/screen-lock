@@ -42,7 +42,7 @@ After installing the skill, you need to configure your screen lock password with
 
 ## Requirements
 
-- macOS system
+- macOS 10.13 (High Sierra) or later
 - Screen password configured
 
 ## Authors

@@ -42,7 +42,7 @@ cd screen-lock
 
 ## 系统要求
 
-- macOS 系统
+- macOS 10.13 (High Sierra) 或更高版本
 - 已设置屏幕密码
 
 ## 作者

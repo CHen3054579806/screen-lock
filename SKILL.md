@@ -36,7 +36,7 @@ IORegistryEntrySetCFProperty(reg, CFSTR("IORequestIdle"), kCFBooleanTrue);
 ```
 
 ## 依赖
-- macOS 系统
+- macOS 10.13 (High Sierra) 或更高版本
 - 辅助功能权限（用于 HID 事件模拟）
 
 ## ⚠️ 首次使用
