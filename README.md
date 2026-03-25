@@ -2,6 +2,8 @@
 
 让 OpenClaw 可以控制 macOS 屏幕锁屏/解锁的工具
 
+[📖 English README](./README_en.md)
+
 ## 功能
 
 - 🔐 **锁屏** - 一键锁定屏幕

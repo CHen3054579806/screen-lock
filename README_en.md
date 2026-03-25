@@ -2,6 +2,8 @@
 
 A tool that enables OpenClaw to control macOS screen lock/unlock
 
+[📖 中文说明](./README.md)
+
 ## Features
 
 - 🔐 **Lock** - Lock your screen instantly
