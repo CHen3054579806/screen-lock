@@ -30,6 +30,11 @@ After installing the skill, you need to configure your screen lock password with
 
 **Your password is stored securely in macOS Keychain.**
 
+## 📋 Platform
+
+- ✅ **macOS**: Tested and working
+- ⚠️ **Windows**: Not verified, not supported yet
+
 ## Usage
 
 ### Lock Screen
